@@ -20,11 +20,6 @@ The following libraries are used in this project:
 - `numpy`
 - `scikit-learn`
 
-To install all dependencies, run the following command:
-
-```bash
-pip install -r requirements.txt
-
 
 ### Key Features:
 - **Dataset**: The PIMA Diabetes dataset provides all the necessary medical features for prediction.
@@ -33,3 +28,7 @@ pip install -r requirements.txt
 
 This `README.md` provides a complete overview, with instructions to run the project and detailed steps explaining the workflow.
 
+To install all dependencies, run the following command:
+
+```bash
+pip install -r requirements.txt
