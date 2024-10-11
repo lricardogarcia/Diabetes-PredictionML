@@ -26,8 +26,6 @@ The following libraries are used in this project:
 - **Model**: SVM is chosen due to its effectiveness with binary classification problems.
 - **Prediction**: Predicts whether an individual is diabetic based on medical records.
 
-This `README.md` provides a complete overview, with instructions to run the project and detailed steps explaining the workflow.
-
 To install all dependencies, run the following command:
 
 ```bash
